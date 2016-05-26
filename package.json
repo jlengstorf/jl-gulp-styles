@@ -1,0 +1,23 @@
+{
+  "name": "jl-gulp-styles",
+  "version": "0.0.1",
+  "description": "An overview of my current preferred front-end workflow for styles.",
+  "main": "build/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jlengstorf/jl-gulp-styles.git"
+  },
+  "keywords": [
+    "gulp",
+    "styles"
+  ],
+  "author": "Jason Lengstorf <jason@lengstorf.com> (@jlengstorf)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlengstorf/jl-gulp-styles/issues"
+  },
+  "homepage": "https://github.com/jlengstorf/jl-gulp-styles#readme"
+}
